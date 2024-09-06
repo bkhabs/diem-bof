@@ -35,7 +35,7 @@ The working group will:
 
 # Program of Work
 
-Documents produced by the working group will address one or more of the following topics.
+Documents produced by the working group will address the following topics.
 
  1. Identification of representative use cases embracing the range of potential needs.
  2. Collection and analysis of requirements.
