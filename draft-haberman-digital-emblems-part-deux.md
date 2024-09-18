@@ -46,7 +46,7 @@ require a new WG.
 - Conflicts (whole Areas and/or WGs)
    - Chair Conflicts: LAMPS, STIR, SIDROPS, TLS, SAAG, SUIT, RATS
    - Technology Overlap: SCITT, RATS, SPICE
-   - Key Participant Conflict: DELEG, DPRIVE
+   - Key Participant Conflict: DELEG, DPRIVE, DNSOP, ADD, V6OPS, UTA
 
 ## Information for IAB/IESG
 To allow evaluation of your proposal, please include the following items:
@@ -60,8 +60,7 @@ To allow evaluation of your proposal, please include the following items:
 
 ## Agenda
    - IETF 120 DIEM BoF Recap
-   - Proposed charter 1
-   - Proposed charter 2
+   - Proposed charter
    - Open discussion
 
 ## Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
