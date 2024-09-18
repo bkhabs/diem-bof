@@ -44,9 +44,9 @@ require a new WG.
 - Number of people expected to attend: 150
 - Length of session (1 or 2 hours): 2 hours
 - Conflicts (whole Areas and/or WGs)
-   - Chair Conflicts: TBD
-   - Technology Overlap: TBD
-   - Key Participant Conflict: DELEG, PIM, DPRIVE
+   - Chair Conflicts: LAMPS, STIR, SIDROPS, TLS, SAAG, SUIT, RATS
+   - Technology Overlap: SCITT, RATS, SPICE
+   - Key Participant Conflict: DELEG, DPRIVE
 
 ## Information for IAB/IESG
 To allow evaluation of your proposal, please include the following items:
