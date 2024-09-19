@@ -44,7 +44,7 @@ require a new WG.
 - Number of people expected to attend: 150
 - Length of session (1 or 2 hours): 2 hours
 - Conflicts (whole Areas and/or WGs)
-   - Chair Conflicts: LAMPS, STIR, SIDROPS, TLS, SAAG, SUIT, RATS
+   - Chair Conflicts: LAMPS, STIR, SIDROPS, TLS, SAAG, SUIT, RATS, SPICE, PPM, HTTPBIS, QUIC
    - Technology Overlap: SCITT, RATS, SPICE
    - Key Participant Conflict: DELEG, DPRIVE, DNSOP, ADD, V6OPS, UTA
 
@@ -66,8 +66,7 @@ To allow evaluation of your proposal, please include the following items:
 ## Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
    - Mailing List: https://mailman3.ietf.org/mailman3/lists/diem.ietf.org/
    - Draft charter(s):
-      - https://github.com/bkhabs/diem-bof/blob/main/diem-charter.md
-      - https://github.com/felixlinker/emblem-scope/blob/main/authenticated-digital-emblem-scoping.md
+      - https://github.com/bkhabs/diem-bof/blob/main/diem-unified-charter.md
    - Relevant Internet-Drafts:
       - Use Cases:
          - https://datatracker.ietf.org/doc/draft-haberman-digital-emblem-ps/
